@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0bcc3f57-a19c-4ec7-99c2-bf4beb108974" name="jhocking@TN005018 2019-03-22 12:26:18" runUser="TN\jhocking" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="03cba366-f706-4ebc-bff8-b0f8f98d9982">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jhocking_TN005018 2019-03-22 12_26_18">
+      <DeploymentItem filename="c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-22T12:26:18.9958203-05:00" queuing="2019-03-22T12:26:19.0436923-05:00" start="2019-03-22T12:26:19.0476957-05:00" finish="2019-03-22T12:26:19.3239436-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TwoPeopleTwoWalletsTwoCardsEach_VisaMC_Returns11" storage="c:\users\jhocking\documents\visual studio 2010\projects\creditcardinterest\creditcardinteresttests\bin\debug\creditcardinteresttests.dll" id="e0a84c83-80ce-67a1-2b1a-646f0d62118b">
+      <Execution id="619f1fd6-35e6-4b69-a7d6-bdf53c4d7bf0" />
+      <TestMethod codeBase="c:/users/jhocking/documents/visual studio 2010/Projects/CreditCardInterest/CreditCardInterestTests/bin/Debug/CreditCardInterestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CreditCardInterestTests.CreditCardInterestTests, CreditCardInterestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwoPeopleTwoWalletsTwoCardsEach_VisaMC_Returns11" />
+    </UnitTest>
+    <UnitTest name="TwoWalletsThreeCards_VisaMCDiscover_Returns10and6" storage="c:\users\jhocking\documents\visual studio 2010\projects\creditcardinterest\creditcardinteresttests\bin\debug\creditcardinteresttests.dll" id="5fee43e1-891d-297e-f924-d7b29d35010b">
+      <Execution id="d360e733-d077-4de7-a4db-33d08d46bb10" />
+      <TestMethod codeBase="c:/users/jhocking/documents/visual studio 2010/Projects/CreditCardInterest/CreditCardInterestTests/bin/Debug/CreditCardInterestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CreditCardInterestTests.CreditCardInterestTests, CreditCardInterestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwoWalletsThreeCards_VisaMCDiscover_Returns10and6" />
+    </UnitTest>
+    <UnitTest name="OneWalletThreeCards_VisaMCdDiscover_Returns16" storage="c:\users\jhocking\documents\visual studio 2010\projects\creditcardinterest\creditcardinteresttests\bin\debug\creditcardinteresttests.dll" id="9cd5bd7b-e2ba-d10b-f255-813d30c9232e">
+      <Execution id="215e6730-ecf0-458b-b301-097a30708a4d" />
+      <TestMethod codeBase="c:/users/jhocking/documents/visual studio 2010/Projects/CreditCardInterest/CreditCardInterestTests/bin/Debug/CreditCardInterestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CreditCardInterestTests.CreditCardInterestTests, CreditCardInterestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OneWalletThreeCards_VisaMCdDiscover_Returns16" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5fee43e1-891d-297e-f924-d7b29d35010b" executionId="d360e733-d077-4de7-a4db-33d08d46bb10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9cd5bd7b-e2ba-d10b-f255-813d30c9232e" executionId="215e6730-ecf0-458b-b301-097a30708a4d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0a84c83-80ce-67a1-2b1a-646f0d62118b" executionId="619f1fd6-35e6-4b69-a7d6-bdf53c4d7bf0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d360e733-d077-4de7-a4db-33d08d46bb10" testId="5fee43e1-891d-297e-f924-d7b29d35010b" testName="TwoWalletsThreeCards_VisaMCDiscover_Returns10and6" computerName="TN005018" duration="00:00:00.0102866" startTime="2019-03-22T12:26:19.0506740-05:00" endTime="2019-03-22T12:26:19.3000069-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d360e733-d077-4de7-a4db-33d08d46bb10">
+    </UnitTestResult>
+    <UnitTestResult executionId="215e6730-ecf0-458b-b301-097a30708a4d" testId="9cd5bd7b-e2ba-d10b-f255-813d30c9232e" testName="OneWalletThreeCards_VisaMCdDiscover_Returns16" computerName="TN005018" duration="00:00:00.0001298" startTime="2019-03-22T12:26:19.3010050-05:00" endTime="2019-03-22T12:26:19.3030005-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="215e6730-ecf0-458b-b301-097a30708a4d">
+    </UnitTestResult>
+    <UnitTestResult executionId="619f1fd6-35e6-4b69-a7d6-bdf53c4d7bf0" testId="e0a84c83-80ce-67a1-2b1a-646f0d62118b" testName="TwoPeopleTwoWalletsTwoCardsEach_VisaMC_Returns11" computerName="TN005018" duration="00:00:00.0086627" startTime="2019-03-22T12:26:19.3040022-05:00" endTime="2019-03-22T12:26:19.3139698-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="619f1fd6-35e6-4b69-a7d6-bdf53c4d7bf0">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;11&gt;. Actual:&lt;15&gt;. </Message>
+          <StackTrace>   at CreditCardInterestTests.CreditCardInterestTests.TwoPeopleTwoWalletsTwoCardsEach_VisaMC_Returns11() in c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\CreditCardInterestTests.cs:line 45
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,4 @@
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.dll
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.pdb
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\obj\Debug\CreditCardInterest.dll
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\obj\Debug\CreditCardInterest.pdb

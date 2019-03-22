@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2ddc405e-f818-46b2-bbef-8ccb69db0504" name="jhocking@TN005018 2019-03-22 12:03:22" runUser="TN\jhocking" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="03cba366-f706-4ebc-bff8-b0f8f98d9982">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jhocking_TN005018 2019-03-22 12_03_22">
+      <DeploymentItem filename="c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-22T12:03:22.3083170-05:00" queuing="2019-03-22T12:03:22.3511464-05:00" start="2019-03-22T12:03:22.3561337-05:00" finish="2019-03-22T12:03:22.6315243-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="OneWalletThreeCards_VisaMasterCardDiscover_Returns16" storage="c:\users\jhocking\documents\visual studio 2010\projects\creditcardinterest\creditcardinteresttests\bin\debug\creditcardinteresttests.dll" id="fbe01ca0-8a9f-a9f3-bc46-c8226ed11837">
+      <Execution id="42c5362a-4847-4f68-805e-74668b168b40" />
+      <TestMethod codeBase="c:/users/jhocking/documents/visual studio 2010/Projects/CreditCardInterest/CreditCardInterestTests/bin/Debug/CreditCardInterestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CreditCardInterestTests.CreditCardInterestTests, CreditCardInterestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OneWalletThreeCards_VisaMasterCardDiscover_Returns16" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fbe01ca0-8a9f-a9f3-bc46-c8226ed11837" executionId="42c5362a-4847-4f68-805e-74668b168b40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="42c5362a-4847-4f68-805e-74668b168b40" testId="fbe01ca0-8a9f-a9f3-bc46-c8226ed11837" testName="OneWalletThreeCards_VisaMasterCardDiscover_Returns16" computerName="TN005018" duration="00:00:00.0124944" startTime="2019-03-22T12:03:22.3591254-05:00" endTime="2019-03-22T12:03:22.6215505-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42c5362a-4847-4f68-805e-74668b168b40">
+    </UnitTestResult>
+  </Results>
+</TestRun>

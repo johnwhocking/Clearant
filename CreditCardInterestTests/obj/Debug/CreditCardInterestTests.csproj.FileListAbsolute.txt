@@ -1,0 +1,7 @@
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\bin\Debug\CreditCardInterestTests.dll
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\bin\Debug\CreditCardInterestTests.pdb
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\bin\Debug\CreditCardInterest.dll
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\bin\Debug\CreditCardInterest.pdb
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\obj\Debug\CreditCardInterestTests.csprojResolveAssemblyReference.cache
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\obj\Debug\CreditCardInterestTests.dll
+c:\users\jhocking\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterestTests\obj\Debug\CreditCardInterestTests.pdb
